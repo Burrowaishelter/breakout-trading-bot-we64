@@ -1,4 +1,4 @@
-# 
+# vip breakout trading bot Executor | high-frequency-execution + trend-following offers the most advanced breakout trading bot, with high-frequency-execution and trend-following.
 
 
 
